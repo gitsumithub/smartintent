@@ -1,0 +1,7 @@
+utterance,intent
+What's my current balance?,balance_inquiry
+Can you check my savings?,balance_inquiry
+I lost my credit card,card_lost
+My card is missing,card_lost
+Cancel my account,close_account
+I want to close my account,close_account
